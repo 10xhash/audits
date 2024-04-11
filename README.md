@@ -15,7 +15,7 @@ Reach out via [twitter](https://twitter.com/10xhash), telegram(@tenxhash) or dis
 | [Stealth](https://audits.sherlock.xyz/contests/201) | 🥇1st | pending | pending |
 | [100x](https://audits.sherlock.xyz/contests/153) | 🥈2nd | pending | pending |
 | [nftPerp](https://code4rena.com/audits/2024-01-nftperp-invitational) | 🥇1st | pending | pending |
-| [reNFT](https://code4rena.com/audits/2024-01-renft) | 5th | pending | [📄](/contests/reNFT.md) |
+| [reNFT](https://code4rena.com/audits/2024-01-renft) | 5th | 3H,5M | [📄](/contests/reNFT.md) |
 | [Olas](https://code4rena.com/audits/2023-12-olas) | 🥈2nd | 3H,2M | [📄](/contests/Olas.md) |
 | [Olympus RBS 2.0](https://audits.sherlock.xyz/contests/128) | 🥇1st | 3H,5M | [📄](/contests/Olympus%20RBS%202.0.md) |
 | [DODO GSP](https://audits.sherlock.xyz/contests/135) | 🥉3rd | 2M | [📄](/contests/DODO%20GSP.md) |
