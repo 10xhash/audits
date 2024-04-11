@@ -4,14 +4,15 @@ Reach out via [twitter](https://twitter.com/10xhash), telegram(@tenxhash) or dis
 
 ## Highlights
 
-- 5x winner, 3x runner up in competitive audits
-- Top 5 in latest 9 competitive audits
+- 6x winner, 3x runner up in competitive audits
+- Top 5 in latest 10 competitive audits
 - Ranked 1 in CodeHawks 2023, Ranked 4 in 90 days leaderboard in Code4Rena, Lead Senior Watson in Sherlock
 
 ## Competitive Audits 
 
 | Contest | Ranking | Issue Count | Report |
 | - | - | :-: | :-: |
+| [Copra Finance](https://audits.sherlock.xyz/contests/141) | 🥇1st | pending | pending |
 | [Stealth](https://audits.sherlock.xyz/contests/201) | 🥇1st | pending | pending |
 | [100x](https://audits.sherlock.xyz/contests/153) | 🥈2nd | pending | pending |
 | [nftPerp](https://code4rena.com/audits/2024-01-nftperp-invitational) | 🥇1st | pending | pending |
