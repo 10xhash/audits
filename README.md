@@ -4,14 +4,15 @@ Reach out via [twitter](https://twitter.com/10xhash), telegram(@tenxhash) or dis
 
 ## Highlights
 
-- 6x winner, 3x runner up in competitive audits
-- Top 5 in latest 11 competitive audits, Top 3 in 10
+- 7x winner, 3x runner up in competitive audits
+- Top 5 in latest 12 competitive audits, Top 3 in 11
 - Ranked 1 in CodeHawks 2023, Ranked 4 in 90 days leaderboard in Code4Rena, Lead Senior Watson in Sherlock
 
 ## Competitive Audits
 
 | Contest | Ranking | Issue Count | Report |
 | - | - | :-: | :-: |
+| [EigenLayer](https://cantina.xyz/competitions/4b6f08a7-e830-4499-9977-08e2c3b32068) | 🥇1st | 1H,1M | pending |
 | [Rio Network](https://audits.sherlock.xyz/contests/176) | 🥉3rd | 5H,6M | [📄](/contests/Rio%20Network.md) |
 | [Copra Finance](https://audits.sherlock.xyz/contests/141) | 🥇1st | pending | pending |
 | [Stealth](https://audits.sherlock.xyz/contests/201) | 🥇1st | pending | pending |
