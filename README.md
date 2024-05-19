@@ -13,7 +13,7 @@ Reach out via [twitter](https://twitter.com/10xhash), telegram(@tenxhash) or dis
 | Contest | Ranking | Issue Count | Report |
 | - | - | :-: | :-: |
 | [Axis Finance](https://audits.sherlock.xyz/contests/206) | 🥈2nd | 7H,4M | [📄](/contests/Axis%20Finance.md) |
-| [EigenLayer](https://cantina.xyz/competitions/4b6f08a7-e830-4499-9977-08e2c3b32068) | 🥇1st | 1H,1M | pending |
+| [EigenLayer](https://cantina.xyz/competitions/4b6f08a7-e830-4499-9977-08e2c3b32068) | 🥇1st | 1H,1M | [📄](/contests/Eigenlayer.md) |
 | [Rio Network](https://audits.sherlock.xyz/contests/176) | 🥉3rd | 5H,6M | [📄](/contests/Rio%20Network.md) |
 | [Copra Finance](https://audits.sherlock.xyz/contests/141) | 🥇1st | pending | pending |
 | [Stealth](https://audits.sherlock.xyz/contests/201) | 🥇1st | pending | pending |
