@@ -12,7 +12,7 @@ Reach out via [twitter](https://twitter.com/10xhash), telegram(@tenxhash) or dis
 ## Private Engagements
 
 | Project | Issue Count | Report |
-| - | - | :-: | :-: |
+| - | :-: | :-: |
 | [Copra KTX Integration](https://www.copra.finance/) | 1H,5M,2L,4I | [📄](/private_engagements/Copra%20KTX%20Integration.pdf) |
 | [Ender Protocol V1](https://www.enderprotocol.io/) | 11H,5M,5L,7I | [📄](/private_engagements/Ender Protocol V1.pdf) |
 | [Ender Protocol V1-Update](https://www.enderprotocol.io/) | 2H,1M,2L,1I | [📄](/private_engagements/Ender Protocol V1 Update.pdf) |
