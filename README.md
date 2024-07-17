@@ -33,6 +33,6 @@ Reach out via [twitter](https://twitter.com/10xhash), telegram(@tenxhash) or dis
 | [Olas](https://code4rena.com/audits/2023-12-olas) | 🥈2nd | 3H,2M | [📄](/contests/Olas.md) |
 | [Olympus RBS 2.0](https://audits.sherlock.xyz/contests/128) | 🥇1st | 3H,5M | [📄](/contests/Olympus%20RBS%202.0.md) |
 | [DODO GSP](https://audits.sherlock.xyz/contests/135) | 🥉3rd | 2M | [📄](/contests/DODO%20GSP.md) |
-| [Panoptic](https://code4rena.com/audits/2023-11-panoptic) | 🥇1st | pending | pending |
+| [Panoptic](https://code4rena.com/audits/2023-11-panoptic) | 🥇1st | 2H,3M | [📄](/contests/Panoptic.md) |
 | [Convergence](https://audits.sherlock.xyz/contests/126) | 🥈2nd | 2H,3M | [📄](/contests/Convergence.md) |
 | [DittoETH](https://www.codehawks.com/contests/clm871gl00001mp081mzjdlwc) | 🥇1st | 7H,2M | [📄](/contests/DittoETH.md) |
