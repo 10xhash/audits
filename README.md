@@ -1,6 +1,6 @@
 # Portfolio
 
-Reach out via [twitter](https://twitter.com/10xhash), telegram(@tenxhash) or discord(@10xhash)
+Reach out via [twitter](https://twitter.com/10xhash), [telegram](https://t.me/tenxhash) or discord(@10xhash)
 
 ## Highlights
 
