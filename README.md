@@ -36,3 +36,25 @@ Reach out via [twitter](https://twitter.com/10xhash), [telegram](https://t.me/te
 | Omni | 🥉3rd  | [Contest Page](https://cantina.xyz/competitions/d139882b-2d3a-49ac-9849-9dccef584090) |
 | RioNetwork | 🥉3rd | [Contest Page](https://audits.sherlock.xyz/contests/176) |
 | DODOGSP | 🥉3rd | [Contest Page](https://audits.sherlock.xyz/contests/135) |
+
+## Private Audits
+
+| Client Name | Link |
+| - | :-: |
+| Impossible Cloud | [Report](https://cantina.xyz/portfolio/2cf7fb62-8d22-41aa-9d20-ae911dacf54f) |
+| Yala | [Report](https://github.com/zenith-security/reports/blob/main/reports/Yala%20-%20Zenith%20Audit%20Report.pdf) |
+| Succint | [Report](https://github.com/zenith-security/reports/blob/main/reports/Succinct%20-%20Zenith%20Audit%20Report.pdf) |
+| Hyperware | [Report](https://cantina.xyz/portfolio/a30b4493-576a-42b0-8a8c-a3ab70d1d3a5) |
+| Ender Protocol | [Report](https://github.com/10xhash/audits/blob/baf40c1cd4fb36ece9ef104217f2c70b772466a2/private_engagements/Ender%20Protocol%20V1.pdf) |
+| Playfi | [Report](https://github.com/zenith-security/reports/blob/main/reports/Zenith%20Audit%20Report%20-%20Playfi.pdf) |
+| Moxie | [Report](https://github.com/zenith-security/reports/blob/main/reports/Zenith%20Audit%20-%20Moxie%2011_24.pdf) |
+| Smardex USDN | - |
+| Mellow | - |
+| TokenMill | - |
+| RWAX | - |
+| Octant | - |
+| Lista DAO | - |
+| Philippe | - |
+
+
+
