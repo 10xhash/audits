@@ -4,7 +4,7 @@ Reach out via [twitter](https://twitter.com/10xhash), [telegram](https://t.me/te
 
 ## Highlights
 
-- 13x winner, 25x top 3 in competitive audits including multiple million+ dollar comps
+- 13x winner, 26x top 3 in competitive audits including multiple million+ dollar comps
 - Ranked 1 in CodeHawks 2023, Prev #1 in Code4Rena 90 days leaderboard, Lead Senior Watson in Sherlock
 - Lead Auditor at BailSec, Blackthorn, Zenith
 - 20+ private audits
@@ -26,6 +26,7 @@ Reach out via [twitter](https://twitter.com/10xhash), [telegram](https://t.me/te
 | Rain | 🥇1st | [Contest Page](https://audits.sherlock.xyz/contests/679) |
 | CopraFinance | 🥇1st | [Contest Page](https://audits.sherlock.xyz/contests/141) |
 | Stealth | 🥇1st | [Contest Page](https://audits.sherlock.xyz/contests/201) |
+| Ethereum | 🥈2nd | [Contest Page](https://audits.sherlock.xyz/contests/1140) |
 | Story | 🥈2nd w/team | [Contest Page](https://cantina.xyz/code/0561defa-eeb2-4a74-8884-5d7a873afa58/overview) |
 | Olas | 🥈2nd | [Contest Page](https://code4rena.com/audits/2023-12-olas) |
 | Beraborrow | 🥈2nd | [Contest Page](https://cantina.xyz/code/d4835c42-fc76-4fea-8e2c-70449237fc0e/overview) |
@@ -48,12 +49,19 @@ Reach out via [twitter](https://twitter.com/10xhash), [telegram](https://t.me/te
 | Ender Protocol | [Report](https://github.com/10xhash/audits/blob/baf40c1cd4fb36ece9ef104217f2c70b772466a2/private_engagements/Ender%20Protocol%20V1.pdf) |
 | Playfi | [Report](https://github.com/zenith-security/reports/blob/main/reports/Zenith%20Audit%20Report%20-%20Playfi.pdf) |
 | Moxie | [Report](https://github.com/zenith-security/reports/blob/main/reports/Zenith%20Audit%20-%20Moxie%2011_24.pdf) |
+| 1inch Aqua | - |
+| Rain | - |
+| Minthub | - |
+| Unipool | - |
 | Smardex USDN | - |
 | Mellow | - |
 | TokenMill | - |
 | RWAX | - |
 | Octant | - |
-| Lista DAO | - |
+| Lista DAO Smartprovider | - |
+| Lista DAO LendingBroker | - |
+| Lista DAO CreditBroker | - |
+| Lista DAO BNB LST | - |
 | Philippe | - |
 
 
