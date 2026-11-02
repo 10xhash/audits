@@ -14,6 +14,7 @@ Reach out via [twitter](https://twitter.com/10xhash), [telegram](https://t.me/te
 | Date | Contest | Category | Ranking | Link |
 | - | - | - | - | :-: |
 | Aug 2025 | Eigenlayer 2.5M | Restaking | 🥇1st | [Contest Page](https://cantina.xyz/code/e7af4986-183d-4764-8bd2-1d6b47f87d99/overview) |
+| Dec 2024 | Teller Lender Groups | Lending | 🥇1st | [Contest Page](https://audits.sherlock.xyz/contests/472) |
 | May 2024 | EigenLayer | Restaking | 🥇1st | [Contest Page](https://cantina.xyz/competitions/4b6f08a7-e830-4499-9977-08e2c3b32068) |
 | Aug 2024 | Mellow Modular LRTs | Liquid Restaking | 🥇1st | [Contest Page](https://audits.sherlock.xyz/contests/423) |
 | Jan 2024 | OlympusRBS 2.0 | Stablecoin / CDP | 🥇1st | [Contest Page](https://audits.sherlock.xyz/contests/128) |
@@ -21,7 +22,6 @@ Reach out via [twitter](https://twitter.com/10xhash), [telegram](https://t.me/te
 | Jan 2024 | Panoptic | Options | 🥇1st | [Contest Page](https://code4rena.com/audits/2023-11-panoptic) |
 | Mar 2025 | Allora | L1 / Infrastructure | 🥇1st | [Contest Page](https://audits.sherlock.xyz/contests/728) |
 | Feb 2024 | nftPerp | NFT Perpetuals | 🥇1st | [Contest Page](https://code4rena.com/audits/2024-01-nftperp-invitational) |
-| - | Teller Lender Groups | Lending | 🥇1st | [Contest Page](https://audits.sherlock.xyz/contests/472) |
 | Nov 2023 | DittoETH | Stablecoin / CDP | 🥇1st | [Contest Page](https://www.codehawks.com/contests/clm871gl00001mp081mzjdlwc) |
 | Dec 2024 | Rain | Payments | 🥇1st | [Contest Page](https://audits.sherlock.xyz/contests/679) |
 | Apr 2024 | CopraFinance | Lending | 🥇1st | [Contest Page](https://audits.sherlock.xyz/contests/141) |
