@@ -59,33 +59,33 @@ Reach out via [twitter](https://twitter.com/10xhash), [telegram](https://t.me/te
 | Jul 2026 | Rain Update | Payments | - |
 | Jun 2026 | Rain Reversal Update | Payments | - |
 | Jun 2026 | Unipool (2nd Audit) | AMM / Lending | - |
-| Jun 2026 | Octant | Public Goods Funding || [Report](https://github.com/golemfoundation/octant-v2-core/blob/develop/audits/bailsec_strategies_audit_core.pdf) |
+| Jun 2026 | Octant | Public Goods Funding | [Report](https://github.com/golemfoundation/octant-v2-core/blob/develop/audits/bailsec_strategies_audit_core.pdf) |
 | Apr 2026 | Rain Chain Deployment | Payments | - |
-| Mar 2026 | 1inch Aqua | DEX / AMM || [Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%201inch%20-%20Aqua%20-%20Final%20Report.pdf) |
-| Mar 2026 | Lista DAO CreditBroker | Lending || [Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Lista%20Dao%20-%20Credit%20Liquidation%20-%20Final%20Report.pdf) |
+| Mar 2026 | 1inch Aqua | DEX / AMM | [Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%201inch%20-%20Aqua%20-%20Final%20Report.pdf) |
+| Mar 2026 | Lista DAO CreditBroker | Lending | [Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Lista%20Dao%20-%20Credit%20Liquidation%20-%20Final%20Report.pdf) |
 | Jan 2026 | Lista DAO LendingBroker | Lending | - |
 | Dec 2025 | Unipool | AMM / Lending | - |
-| Dec 2025 | Abraxas MintHub | Lottery || [Report](https://cantina.xyz/portfolio/be15a789-e084-4bd9-873a-01c2d824bbe1) |
+| Dec 2025 | Abraxas MintHub | Lottery | [Report](https://cantina.xyz/portfolio/be15a789-e084-4bd9-873a-01c2d824bbe1) |
 | Nov 2025 | Rain | Payments | - |
 | Nov 2025 | Lista DAO Moolah | Lending | - |
 | Nov 2025 | Terminal | AMM | - |
 | Oct 2025 | Impossible Cloud (Link Contracts) | DePIN | [Report](https://cantina.xyz/portfolio/254216a6-420e-459b-a746-464d1fa2c986) |
 | Oct 2025 | Lista DAO RWA | RWA | - |
 | Oct 2025 | Rain Update | Payments | - |
-| Sep 2025 | Lista DAO Smartprovider | Lending || [Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Lista%20Dao%20%E2%80%93%20SmartProvider%20and%20SlisBNBMinter%20-%20Final%20Report.pdf) |
+| Sep 2025 | Lista DAO Smartprovider | Lending | [Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Lista%20Dao%20%E2%80%93%20SmartProvider%20and%20SlisBNBMinter%20-%20Final%20Report.pdf) |
 | Sep 2025 | Lista DAO BNB LST | Liquid Staking | - |
 | Sep 2025 | Philippe | Lottery | - |
 | Aug 2025 | Impossible Cloud | DePIN | [Report](https://cantina.xyz/portfolio/2cf7fb62-8d22-41aa-9d20-ae911dacf54f) |
-| Aug 2025 | Octant | Public Goods Funding || [Report](https://github.com/golemfoundation/octant-v2-core/blob/develop/audits/spearbit_audit_core.pdf) |
+| Aug 2025 | Octant | Public Goods Funding | [Report](https://github.com/golemfoundation/octant-v2-core/blob/develop/audits/spearbit_audit_core.pdf) |
 | Jul 2025 | Hyperware | DePIN | [Report](https://cantina.xyz/portfolio/a30b4493-576a-42b0-8a8c-a3ab70d1d3a5) |
 | Jul 2025 | RWAX | Perpetual futures | - |
-| May 2025 | TokenMill | Launchpad || [Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Token%20Mill%20-%20EVM%20-%20Final%20Report.pdf) |
+| May 2025 | TokenMill | Launchpad | [Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Token%20Mill%20-%20EVM%20-%20Final%20Report.pdf) |
 | Mar 2025 | Yala | Stablecoin / CDP | [Report](https://github.com/zenith-security/reports/blob/main/reports/Yala%20-%20Zenith%20Audit%20Report.pdf) |
 | Mar 2025 | Succint | ZK | [Report](https://github.com/zenith-security/reports/blob/main/reports/Succinct%20-%20Zenith%20Audit%20Report.pdf) |
 | Mar 2025 | Sentiment (Oracle Update) | Lending | - |
-| Jan 2025 | Smardex USDN | Synthetic Dollar / Derivative || [Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Smardex%20Ecosystem%20-%20Final%20Report.pdf) |
+| Jan 2025 | Smardex USDN | Synthetic Dollar / Derivative | [Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Smardex%20Ecosystem%20-%20Final%20Report.pdf) |
 | Jan 2025 | Chainlink (Mitigation Review) | Oracle | - |
-| Dec 2024 | Teller | Lending || [Report](https://github.com/sherlock-protocol/sherlock-reports/blob/main/audits/2024.12.10%20-%20Final%20-%20Teller%20Lender%20Groups%20Update%20Audit%20%20Audit%20Report.pdf) |
+| Dec 2024 | Teller | Lending | [Report](https://github.com/sherlock-protocol/sherlock-reports/blob/main/audits/2024.12.10%20-%20Final%20-%20Teller%20Lender%20Groups%20Update%20Audit%20%20Audit%20Report.pdf) |
 | Dec 2024 | Rain | Payments | - |
 | Dec 2024 | Moxie | SocialFi | [Report](https://github.com/zenith-security/reports/blob/main/reports/Zenith%20Audit%20-%20Moxie%2011_24.pdf) |
 | Nov 2024 | Velodrome-Mellow | Vault | - |
